@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812294325552",
+    "firebase_url": "https://jdauf2examen-cefbe.firebaseio.com",
+    "project_id": "jdauf2examen-cefbe",
+    "storage_bucket": "jdauf2examen-cefbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812294325552:android:27fabc6e205eeff4",
+        "android_client_info": {
+          "package_name": "com.example.cf17inigoreal.jda_uf2_examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812294325552-9lu0mt6elupg8qkvn451g55nnfkh3msk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cf17inigoreal.jda_uf2_examen",
+            "certificate_hash": "cd7ad742ae107fad4278674ecb92cc1a9756cb99"
+          }
+        },
+        {
+          "client_id": "812294325552-ic9seiqpb6t4vhd4ls5be76jfhje202s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDnkcr2s_CEDMih4poeXVnVfWYgxPpLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812294325552-ic9seiqpb6t4vhd4ls5be76jfhje202s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
